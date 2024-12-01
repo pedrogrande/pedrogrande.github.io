@@ -8,7 +8,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: "Pete Argent 🖖 Web3 Wizard",
   description: "Web3 knowledge and resources for change makers",
   srcDir: 'src',
-  base: '/pedrogrande.github.io/', // if running on github-pages, set repository name here
+  // base: '/pedrogrande.github.io/', // if running on github-pages, set repository name here
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
