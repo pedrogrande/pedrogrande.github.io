@@ -21,3 +21,7 @@ I help progressive organizations leverage web3 technology to create meaningful s
 - Innovation
 - Transparency
 - Collaboration
+
+## This is me :)
+
+I want you all to succeed!
